@@ -9,4 +9,4 @@ if [ -d "$DIR" ]; then
   /bin/run-parts "$DIR"
 fi
 
-gosu ${U_ID}:${G_ID} "$@"
+exec gosu ${U_ID}:${G_ID} "$@"
