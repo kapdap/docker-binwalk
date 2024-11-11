@@ -1,0 +1,9 @@
+*                   text=auto
+
+*.dockerignore      text
+Dockerfile          text
+
+*.sh                text eol=lf
+*.md                text
+.gitattributes      text
+.gitignore          text

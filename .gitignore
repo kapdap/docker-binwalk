@@ -1,0 +1,8 @@
+.dropbox
+.dropbox.attr
+.dropbox.cache
+.DS_Store
+desktop.ini
+thumbs.db
+
+.vscode/
